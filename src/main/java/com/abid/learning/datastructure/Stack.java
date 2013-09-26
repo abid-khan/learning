@@ -1,4 +1,4 @@
-package com.abid.datastructure;
+package com.abid.learning.datastructure;
 
 import java.util.Arrays;
 
